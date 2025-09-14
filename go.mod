@@ -1,3 +1,3 @@
-module public_const
+module github.com/LinRds/public_const
 
-go 1.21.7
+go 1.23
